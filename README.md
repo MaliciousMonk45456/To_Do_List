@@ -1,10 +1,6 @@
 # To_Do_List
 ## Simple list management web application where user can add and  delete new notes and previous notes and can create new lists by  dynamic routing and data persistence is implemented by using  mongoDB and mongoose framework
-1. Find out your principal id:
 
-```
-dfx identity get-principal
-```
 1. Run below command to install all required dependencies
 
 ```
